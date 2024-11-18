@@ -1,0 +1,6 @@
+7seg.c:20:6:display7SEG	16	static
+7seg.c:124:6:display7SEG_2	16	static
+7seg.c:229:6:enable_seg_0_1	16	static
+7seg.c:246:6:enable_seg_2_3	16	static
+7seg.c:264:6:updatebuffer2	16	static
+7seg.c:269:6:updatebuffer1	16	static

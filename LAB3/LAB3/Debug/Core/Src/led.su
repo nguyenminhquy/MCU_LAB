@@ -1,0 +1,10 @@
+led.c:15:6:setup1	8	static
+led.c:21:6:init1	8	static
+led.c:27:6:init2	8	static
+led.c:34:6:setup2	8	static
+led.c:40:6:red_led1	8	static
+led.c:47:6:green_led1	8	static
+led.c:54:6:yellow_led1	8	static
+led.c:61:6:red_led2	8	static
+led.c:67:6:green_led2	8	static
+led.c:73:6:yellow_led2	8	static
