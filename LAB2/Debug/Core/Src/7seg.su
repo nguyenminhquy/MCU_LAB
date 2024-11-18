@@ -1,0 +1,2 @@
+7seg.c:16:6:display7SEG	16	static
+7seg.c:121:6:enable_seg	16	static
