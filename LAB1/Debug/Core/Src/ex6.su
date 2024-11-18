@@ -1,0 +1,5 @@
+ex6.c:26:6:updateDisplay1	4	static
+ex6.c:33:6:updateDisplay2	4	static
+ex6.c:41:6:update7SEG_ex6_1	16	static
+ex6.c:63:6:update7SEG_ex6_2	16	static
+ex6.c:89:6:run6	8	static

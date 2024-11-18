@@ -1,0 +1,4 @@
+software_timer.c:19:6:settimer1	16	static
+software_timer.c:25:6:settimer2	16	static
+software_timer.c:31:6:settimer3	16	static
+software_timer.c:38:6:timerrun	4	static
